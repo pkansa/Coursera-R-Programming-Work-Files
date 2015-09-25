@@ -1,0 +1,1 @@
+tapply(iris$Sepal.Length,iris$Species,mean) ## calculate the mean Sepal.Length across species
